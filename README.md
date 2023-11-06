@@ -16,15 +16,10 @@ Este proyecto se basa en la utilización de datos provenientes de la API de aves
 
 
 ### Herramientas Utilizadas :wrench:
-- Python 3.9.17
-- Biblioteca de acceso a API: Requests
-- Biblioteca de manipulación de datos en formato CSV: CSV
-- Herramienta de visualización de datos: Power BI
+- Power BI Desktop
   
 ### Estructura del Proyecto :open_file_folder:
-- aves.ipynb: Archivo Jupyter Notebook para consumir la API y generar el archivo CSV.
-- info_aves.csv: Archivo CSV con los datos extraídos de la API.
-- aves.pbix: Reporte de Power BI basado en los datos extraídos.
+- videojuegos.pbix: Reporte de Power BI basado en los datos extraídos.
   
 
 ### Cómo usar este proyecto :question:
