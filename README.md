@@ -1,6 +1,6 @@
 # Videojuegos 🎮
 
-<img src="https://tecolotito.elsiglodetorreon.com.mx/i/2023/04/1676517.jpeg" width='200' height='100'>
+<img src="https://tecolotito.elsiglodetorreon.com.mx/i/2023/04/1676517.jpeg" width='60%'>
 
 
 ## Tabla de contenidos
