@@ -17,11 +17,12 @@ Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ven
 
 ### Herramientas Utilizadas :wrench:
 - Power BI Desktop
+
   
 ### Estructura del Proyecto :open_file_folder:
 - **videojuegos.pbix:** Reporte de Power BI basado en los datos extraídos.
-  
 
+  
 ### Cómo usar este proyecto :question:
 Para aprovechar al máximo este proyecto, simplemente sigue estos pasos:
 1. Abre el archivo `videojuegos.pbix` y explora el informe generado en Power BI.
