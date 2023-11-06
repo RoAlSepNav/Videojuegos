@@ -23,5 +23,5 @@ Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ven
   
 
 ### Cómo usar este proyecto :question:
-Para utilizar este proyecto, sigue estos pasos:
-1. Abre el archivo `videojuegos.pbix` y explora el reporte generado en Power BI.
+Para aprovechar al máximo este proyecto, simplemente sigue estos pasos:
+1. Abre el archivo `videojuegos.pbix` y explora el informe generado en Power BI.
