@@ -12,7 +12,7 @@
 
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto utiliza los datos contenidos en el archivo `Ventas+Videojuegos.xlsx` que contiene información sobre la industria de los videojuegos.
+Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ventas+Videojuegos.xlsx`, que alberga información relevante sobre la industria de los videojuegos.
 
 
 ### Herramientas Utilizadas :wrench:
