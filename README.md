@@ -20,6 +20,7 @@ Este proyecto se basa en el análisis de datos proporcionados en el archivo `Ven
   
 ### Estructura del Proyecto :open_file_folder:
 - videojuegos.pbix: Reporte de Power BI basado en los datos extraídos.
+- **videojuegos.pbix:**
   
 
 ### Cómo usar este proyecto :question:
